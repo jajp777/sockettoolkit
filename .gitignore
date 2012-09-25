@@ -8,3 +8,6 @@ TestResults
 # VS files
 *.suo
 *.user
+
+# Temporary PsTest files
+/SocketToolkit/SocketToolkit.ps1
